@@ -2,39 +2,32 @@
     "start": {
         "backgrounds": [
             {
-                "color": "#000000",
-                "author": "bili\u82CF\u6893czi",
-                "source": "https://www.bilibili.com/read/cv3846368/",
-                "name": "\u519C\u7530",
-                "image": "https://i0.hdslb.com/bfs/article/4f436f74f132ae4fe7cfbb25e72f42bc886c6d86.jpg@628w_326h_progressive.webp"
+                "color": "#FFFFFF",
+                "author": "\u672a\u77e5",
+                "source": "http://pic.gamersky.com/html/517315_2.shtml",
+                "name": "\u672a\u77e5",
+                "image": "http://img1.gamersky.com/image2015/01/20150124zy_1/gamersky_01origin_01_2015129132591B.jpg"
             },
             {
-                "color": "#000000",
-                "author": "bili\u82CF\u6893czi",
-                "source": "https://www.bilibili.com/read/cv3846368/",
-                "name": "\u9E1F\u5C45",
-                "image": "https://i0.hdslb.com/bfs/article/b5e147c0ad00992ffd3c8498a3aa59c69d8a1232.jpg@628w_322h_progressive.webp"
+                "color": "#FFFFFF",
+                "author": "\u672a\u77e5",
+                "source": "http://pic.gamersky.com/html/517315_2.shtml",
+                "name": "\u672a\u77e5",
+                "image": "http://img1.gamersky.com/image2015/01/20150124zy_1/gamersky_02small_04_201512913251B8.jpg"
             },
             {
-                "color": "#000000",
-                "author": "bili\u82CF\u6893czi",
-                "source": "https://www.bilibili.com/read/cv3846368/",
-                "name": "\u65B0\u591C",
-                "image": "https://i0.hdslb.com/bfs/article/7cca1e1ae5916f9bea8c9ec382903a4edc4b1612.jpg@628w_322h_progressive.webp"
+                "color": "#FFFFFF",
+                "author": "\u672a\u77e5",
+                "source": "http://pic.gamersky.com/html/517315_2.shtml",
+                "name": "\u672a\u77e5",
+                "image": "http://img1.gamersky.com/image2015/01/20150124zy_1/gamersky_03small_06_2015129132592C.jpg"
             },
             {
-                "color": "#000000",
-                "author": "bili\u82CF\u6893czi",
-                "source": "https://www.bilibili.com/read/cv3846368/",
-                "name": "\u6D77\u4E0A\u751F\u660E\u6708",
-                "image": "https://i0.hdslb.com/bfs/article/38c1aae8b2a751f01ce9614bb62decbb8e1afa57.jpg@628w_322h_progressive.webp"
-            },
-            {
-                "color": "#000000",
-                "author": "bili\u82CF\u6893czi",
-                "source": "https://www.bilibili.com/read/cv3846368/",
-                "name": "\u957F\u5B89\u5C45",
-                "image": "https://i0.hdslb.com/bfs/article/024717508703939def241abbe1739ca286045f53.jpg@628w_322h_progressive.webp"
+                "color": "#FFFFFF",
+                "author": "\u672a\u77e5",
+                "source": "http://pic.gamersky.com/html/517315_2.shtml",
+                "name": "\u672a\u77e5",
+                "image": "http://img1.gamersky.com/image2015/01/20150124zy_1/gamersky_04small_08_2015129132514D.jpg"
             }
         ]
     }
