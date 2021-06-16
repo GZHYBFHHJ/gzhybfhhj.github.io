@@ -49,7 +49,10 @@
                 "source": "http://pic.gamersky.com/html/517315.shtml",
                 "name": "\u672a\u77e5",
                 "image": "http://img1.gamersky.com/image2015/01/20150124zy_1/gamersky_17origin_33_201512913259DA.jpg"
-            },
+            }
+            
+        ],
+        "no_use_backgrounds":[
             {
                 "color": "#000000",
                 "author": "bili\u82CF\u6893czi",
@@ -85,9 +88,6 @@
                 "name": "\u957F\u5B89\u5C45",
                 "image": "https://i0.hdslb.com/bfs/article/024717508703939def241abbe1739ca286045f53.jpg@628w_322h_progressive.webp"
             }
-        ],
-        "no_use_backgrounds":[
-            
         ]
     }
 }
