@@ -1,0 +1,12 @@
+{
+    "BlackList": [
+        {
+            "Progress":"GoogleDesktop.exe",
+            "Name":"Google Desktop"
+        },
+        {
+            "Progress":"sidebar.exe",
+            "Name":"Windows Sidebar"
+        }
+    ]
+}
