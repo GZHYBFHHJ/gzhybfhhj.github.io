@@ -7,6 +7,14 @@
         {
             "Progress":"sidebar.exe",
             "Name":"Windows Sidebar"
-        }
+        },
+        {
+            "Progress":"Tiles.exe",
+            "Name":"Stardock Tiles"
+        },
+        {
+            "Progress":"Tiles64.exe",
+            "Name":"Stardock Tiles"
+        },
     ]
 }
